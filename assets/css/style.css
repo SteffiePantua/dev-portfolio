@@ -2,12 +2,12 @@
 body{
  /*background-image: url(../images/bg.jpg);
 */ background-repeat: no-repeat;
- background-size: cover;
- color: #5b4650; 
-font-family: 'Ruslan Display', cursive;
-background-image: url(../images/retro-pattern.png);
-background-color: #fff;
-height: 100vh;
+  background-size: cover;
+  color: #000000; 
+ font-family: 'Anton', sans-serif;
+ background-image: url(../images/bg2.png);
+ background-color: #CCFFFF;
+ height: 100vh;
  }
 h1{
 	font-size:50px;
@@ -15,12 +15,12 @@ h1{
 	background-color: rgba(51,51,51,0.75);
 	text-transform: uppercase;
 	letter-spacing: 3px;
-	color: #00BCD9; 
+	color: #FF9999; 
 }
 h2{
 	text-transform: uppercase;
 	letter-spacing: 5px;
-	color: #bf35a7;
+	color: #ff3366;
 }
 
 #me{
@@ -28,7 +28,7 @@ h2{
 	border-radius: 50%;
 	border-style: solid;
 	border-width: 5px;
-	border-color: #3E49BB;
+	border-color: #cc6699;
 	/*margin-top: 50px;*/
 
 }
@@ -37,7 +37,7 @@ h2{
 	font-size: 20px;
 	line-height: 1.5;
 	background-color: rgba(51,51,51,0.10);
-	font-family: 'Pacifico', cursive;
+	font-family: 'Gloria Hallelujah', cursive;
 }
 
 .container{
